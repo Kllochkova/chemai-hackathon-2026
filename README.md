@@ -15,7 +15,7 @@ CC50 = baseline + 0.925 × (donor − baseline)
 SI   = baseline (без калибровки)
 
 Структура репозитория:
-265practice_refactor.ipynb  # основной ноутбук с решением
+265practice.ipynb  # основной ноутбук с решением
 train.csv                   # данные
 test.csv                    # данные
 README.md                   # этот файл
